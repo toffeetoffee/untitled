@@ -28,6 +28,7 @@ class MyApp extends StatelessWidget {
                     fontWeight: FontWeight.bold,
                     fontFamily: 'elron'),
               ),
+
               Text(
                 'Japanese musical duo',
                 style: TextStyle(
